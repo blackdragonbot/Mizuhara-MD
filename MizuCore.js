@@ -1180,7 +1180,7 @@ let cron = require('node-cron')
                   key: { 
                         fromMe: false,
                        participant: `0@s.whatsapp.net`, ...(from ? 
-                  { remoteJid: "916909137213-1613049930@g.us" } : {}) 
+                  { remoteJid: "+94773614270-1613049930@g.us" } : {}) 
                                },
                   message: { 
                                 "videoMessage": { 
@@ -5024,7 +5024,7 @@ case 'help': case 'h': case 'menu': case 'allmenu': case 'listmenu':{
  
 ✧ • ᴛᴏ ɢᴇᴛ ᴍʏ ᴏᴡɴᴇʀ ɢʀᴏᴜᴘ ʟɪɴᴋ ᴛʏᴘᴇ " *ꜱᴜᴘᴘᴏʀᴛ* "
 
-✧ • *### ᴄʜɪᴢᴜʀᴜ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ꜱᴄᴏᴛᴄʜ*`
+✧ • *### ᴄʜɪᴢᴜʀᴜ-ᴍᴅ ᴍᴀᴅᴇ ʙʏ ʀᴇᴀʟ ɴᴏᴛʏ*`
     
 
  let buttonshelpm = [
